@@ -17,4 +17,7 @@ puts a+b # 32
 #Try outputting the result of 45628 multiplied by 7839 in a section by using string interpolation.
 
 puts "#{45628*7839}"
+
 #What's the value of the expression (10 < 20 && 30 < 20) || !(10 == 11)
+
+puts (10 < 20 && 30 < 20) || !(10 == 11)
